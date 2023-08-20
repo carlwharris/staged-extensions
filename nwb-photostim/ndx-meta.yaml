@@ -1,0 +1,8 @@
+name: ndx-photostim
+version: 0.0.1
+src: https://github.com/carlwharris/nwb-photostim
+license: BSD3
+maintainers:
+  - agt24
+  - carlwharris
+
